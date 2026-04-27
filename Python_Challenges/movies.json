@@ -1,0 +1,17 @@
+[
+    {
+        "Title": "Salaar",
+        "Genre": "Action",
+        "Rating": 10.0
+    },
+    {
+        "Title": "Interstellar",
+        "Genre": "Si-Fi",
+        "Rating": 10.0
+    },
+    {
+        "Title": "The godfather",
+        "Genre": "mafia",
+        "Rating": 9.0
+    }
+]
